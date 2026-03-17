@@ -1,2 +1,6 @@
-# TestCollab 
-Acesta este un proiect de test pentru a exersa colaborarea in Git. 
+# TestCollab
+
+Acesta este un proiect de test pentru a exersa colaborarea in Git.
+
+Linie adaugata de Elev B.
+
